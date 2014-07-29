@@ -89,4 +89,4 @@ Defaults to `[ ]`
 
 ## License
 
-MIT ©2014 **Gilad Peleg**
+MIT ©2014 **Costica Puntaru**
