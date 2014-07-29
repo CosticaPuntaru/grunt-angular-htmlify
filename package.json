@@ -1,0 +1,35 @@
+{
+  "name": "grunt-angular-htmlify",
+  "version": "0.0.1",
+  "description": "Change your ng-attributes to data-ng-attributes for html5 validation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt angular-htmlify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CosticaPuntaru/grunt-angular-htmlify.git"
+  },
+  "keywords": [
+    "grunt",
+    "plugin",
+    "grunt",
+    "angular",
+    "w3c",
+    "validator",
+    "html5",
+    "data-ng",
+    "ng",
+    "prefix",
+    "attributes"
+  ],
+  "author": "Puntaru Costica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CosticaPuntaru/grunt-angular-htmlify/issues"
+  },
+  "dependencies": {
+    "angular-html5": "^0.1.1"
+  },
+  "homepage": "https://github.com/CosticaPuntaru/grunt-angular-htmlify"
+}
