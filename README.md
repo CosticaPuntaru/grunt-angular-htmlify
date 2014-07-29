@@ -1,10 +1,7 @@
 # [gulp](https://github.com/wearefractal/gulp)-angular-htmlify
+using angular-html5 from  https://github.com/pgilad/angular-html5
 
 > Change your ng-attributes to data-ng-attributes for HTML5 validation
-
-[![NPM Version](http://img.shields.io/npm/v/gulp-angular-htmlify.svg?style=flat)](https://npmjs.org/package/gulp-angular-htmlify)
-[![NPM Downloads](http://img.shields.io/npm/dm/gulp-angular-htmlify.svg?style=flat)](https://npmjs.org/package/gulp-angular-htmlify)
-[![Build Status](http://img.shields.io/travis/pgilad/gulp-angular-htmlify.svg?style=flat)](https://travis-ci.org/pgilad/gulp-angular-htmlify)
 
 Ever tried to run an Angular HTML page into w3c validator? Yeah it's a mess.
 
@@ -74,11 +71,6 @@ npm install --save-dev grunt-angular-htmlify
       }
     }
 ```
-## API
-
-### htmlify(params)
-
-`params` is an object that contains the following settings:
 
 #### customPrefixes
 
