@@ -59,7 +59,7 @@ npm install --save-dev grunt-angular-htmlify
 ## Example
 
 ```js
-   angularJSAttributes: {
+   'angular-htmlify': {
       dist: {
         customPrefixes: ['ui-'],
         files: [{
