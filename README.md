@@ -73,6 +73,7 @@ npm install --save-dev grunt-angular-htmlify
         }]
       }
     }
+```
 ## API
 
 ### htmlify(params)
