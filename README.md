@@ -71,7 +71,6 @@ npm install --save-dev grunt-angular-htmlify
       }
     }
 ```
-
 #### customPrefixes
 
 Type: `Array`
